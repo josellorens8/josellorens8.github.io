@@ -1,0 +1,75 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #20262E;
+    margin-top: 50px;
+}
+
+#linea{
+    background-color: #CD5888;
+    padding: 10px;
+}
+#perfil{
+    border-radius: 50%;
+    float: left;
+}
+
+a{
+ color: #E9E8E8;
+}
+
+#nombre{
+    text-align: center;
+   font-size: 80px;
+   color: #E9E8E8;
+}
+
+#datos{
+    background-color: #913175;
+    float: left;
+    padding: 20px;
+}
+.detalleDatos{
+    font-size: 24px;
+    font-weight: 900;
+    text-align: center;
+    color: #E9E8E8;
+    margin: 0px;
+}
+.informacion{
+    background-color: #E9E8E8;
+    text-align: center;
+}
+.area{
+    font-size: 40px;
+    color: #20262E;
+    text-align: center;
+    font-weight: 700;
+}
+.detalleArea{
+    font-size: 20px;
+    color: #20262E;
+    font-weight: 700;
+}
+.bi{
+    margin-bottom: 5px;
+    width: 20px;
+    height: 20px;
+    fill: currentColor;
+}
+#hab{
+    display: none;
+}
+#exp{
+    display: none;
+}
+button.col-12.area {
+    border: 0px;
+    background-color: #913175;
+    color: white;
+}
+.fondoBoton{
+    padding: 0px;
+}
+li::marker {
+   color: #E9E8E8;
+}
